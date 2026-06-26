@@ -45,6 +45,14 @@
         "source": "github",
         "repo": "phj6688/backlog-ship"
       }
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "description": "Professional UI/UX design intelligence: 84 styles, 161 palettes, 73 font pairings, 25 charts, 17 stacks (React, Next.js, Vue, Nuxt, Svelte, Astro, SwiftUI, Flutter, Tailwind, shadcn/ui u.a.).",
+      "source": {
+        "source": "github",
+        "repo": "nextlevelbuilder/ui-ux-pro-max-skill"
+      }
     }
   ]
 }
